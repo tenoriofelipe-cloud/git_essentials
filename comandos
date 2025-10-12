@@ -1,0 +1,12 @@
+git add
+git commit
+git init
+git commit
+git push
+git pull
+git clone
+git checkout -b
+git checkout .
+git stash
+git statsh apply 
+
